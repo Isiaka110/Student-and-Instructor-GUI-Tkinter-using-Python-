@@ -2,7 +2,7 @@
 CSC 215-Python, Group 1 Project, to build a Graphical User Interface for Student and Instructors
 
 
-**## Student-Instructor Platform**
+**##Student-Instructor Platform**
 
 This project provides a basic Python code for a student-instructor platform with two main sections:
 
